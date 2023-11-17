@@ -74,7 +74,7 @@ Bunker-[IP] don't add duplicate match or duplicate manual adding.
 
 **NOTE:** This option can be use on RBL who are not working and want to remove from **rbl-list.bunker**
 
-## Bunker-[IP] - Bunker Display ALl the IP in **ip.bunker**
+## Bunker-[IP] - Bunker Display All the IP in **ip.bunker**
 
 ![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/BunkerIP-IP-Bunker-LIST.JPG)
 
