@@ -133,3 +133,9 @@ Bunker-[IP] don't add duplicate match or duplicate manual adding.
 
 **NOTE:** You can use this command for remove IP Address add it manual or in Positive Match Results from RBL Bunker Search
 
+## Bunker-[IP] - Firewall Auto Insert
+
+![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/firewall/BunkerIP-Firewall-Auto-Insert-IP-Bunker-Deny-All.JPG)
+
+**NOTE:** This option insert all the ip address in **ip.bunker** DB to the UFW (Ubuntu FireWall) Deny All Rule
+
