@@ -87,5 +87,10 @@ Bunker-[IP] don't add duplicate match or duplicate manual adding.
 **NOTE:** This list display is from **rbl-list.bunker** Where all RBL Domain are add.
 
 
+## Bunker-[IP] Version - Display Version
+
+![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/BunkerIP-Version-Display-Doc.JPG)
+
+**NOTE:** With this command you make sure you are up to date all the time!
 
 
