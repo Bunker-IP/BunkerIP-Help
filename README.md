@@ -68,7 +68,7 @@ Bunker-[IP] don't add duplicate match or duplicate manual adding.
 
 **NOTE:** In case you want to remove the RBL Domain from **rbl-list.bunker** You can do it very easy.
 
-**REMEMBER:** if you remove a RBL Domain from **rbl-list.binker** the script for RBL not going to search the IP in that Domain.
+**REMEMBER:** if you remove a RBL Domain from **rbl-list.bunker** the script for RBL not going to search the IP in that Domain.
 
 ![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/BunkerIP-Delete-RBL-Domain.JPG)
 
