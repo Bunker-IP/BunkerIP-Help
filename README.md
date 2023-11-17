@@ -55,3 +55,37 @@ Bunker-[IP] don't add duplicate match or duplicate manual adding.
 **NOTE:** If the ip address you scan got a vhost/domain name, is going to show in result. **Remember:** Only IP Address are adding on RBL System for better results.
 
 
+## Bunker-[IP] - Add URL BRL in Bunker
+
+![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/BunkerIP-Add-RBL-Domain.JPG)
+
+**NOTE:** This command add a new RBL Domain in the **rbl-list.bunker** This list don't add duplicate domains RBL.
+
+
+![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/BunkerIP-Add-RBL-Domain-NO-Duplicate.JPG)
+
+**NOTE:** If the RBL Domain is add in **rbl-list.bunker** going to display a message info.
+
+**NOTE:** In case you want to remove the RBL Domain from **rbl-list.bunker** You can do it very easy.
+
+**REMEMBER:** if you remove a RBL Domain from **rbl-list.binker** the script for RBL not going to search the IP in that Domain.
+
+![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/BunkerIP-Delete-RBL-Domain.JPG)
+
+**NOTE:** This option can be use on RBL who are not working and want to remove from **rbl-list.bunker**
+
+## Bunker-[IP] - Bunker Display ALl the IP in **ip.bunker**
+
+![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/BunkerIP-IP-Bunker-LIST.JPG)
+
+**NOTE:** This Command show all the IP Address listed in **ip.bunker** DB this list is from a positive RBL Match or Manual Add
+
+## Bunker-[IP] - Check Display Bunker RBL List
+
+![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/BunkerIP-Check-RBL-List.JPG)
+
+**NOTE:** This list display is from **rbl-list.bunker** Where all RBL Domain are add.
+
+
+
+
