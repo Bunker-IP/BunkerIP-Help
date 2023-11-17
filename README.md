@@ -36,8 +36,19 @@ Can update all the time this **rbl-list.bunker** with Add and Delete URL RBL.
 Check all the IP Address you got add in **ip.bunker** with a RBL Match or Manual adding.
 
 
+## Bunker-[IP] - SEARCH
 
+![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/BunkerIP-search.JPG)
 
+You can search a IP for a positive match in some RBL add on the **rbl-list.bunker**
 
+If the IP Got a positive result on a RBL Domain, going to be add it in **ip.bunker**
 
+Bunker-[IP] don't add duplicate match or duplicate manual adding.
+
+![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/BunkerIP-Search-NO-Duplicate.JPG)
+
+If the IP You are searching is add on ip.bunker because is the second time you scan the same ip address.
+
+Going to see a Warning Message, the IP address is not going to be add on **ip.bunker** because the ip address is already add it.
 
