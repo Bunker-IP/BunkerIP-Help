@@ -6,7 +6,7 @@
 
 ![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/MainMenu.jpg)
 
-In this Main Menu, you can check all options available with Bunker-[IP]. 
+In this Main Menu, you can check all options available with Bunker-[IP] and install selected packages. 
 You can select a number to run the script in the section you need it.
 
 ```
