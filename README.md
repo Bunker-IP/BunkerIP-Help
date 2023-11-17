@@ -48,6 +48,10 @@ Bunker-[IP] don't add duplicate match or duplicate manual adding.
 
 ![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/BunkerIP-Search-NO-Duplicate.JPG)
 
-If the IP You are searching is add on ip.bunker because is the second time you scan the same ip address.
+**NOTE:** If the IP You are searching is add on ip.bunker because is the second time you scan the same ip address.
 
-Going to see a Warning Message, the IP address is not going to be add on **ip.bunker** because the ip address is already add it.
+**NOTE:** Going to see a Warning Message, the IP address is not going to be add on **ip.bunker** because the ip address is already add it.
+
+**NOTE:** If the ip address you scan got a vhost/domain name, is going to show in result. **Remember:** Only IP Address are adding on RBL System for better results.
+
+
