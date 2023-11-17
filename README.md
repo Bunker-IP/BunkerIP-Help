@@ -93,4 +93,43 @@ Bunker-[IP] don't add duplicate match or duplicate manual adding.
 
 **NOTE:** With this command you make sure you are up to date all the time!
 
+## Bunker-[IP] Firewall MENU
+
+![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/firewall/BunkerIP-Menu-Firewall.JPG)
+
+**NOTE:** For use this option in Bunker-[IP] You need **sudo** or **root** access.
+
+**NOTE:** Normal User with out sude or root access, can use RBL Scan for add ip in ip.bunker for wait the admin to add in firewall.
+
+## Bunker-[IP] Firewall Status
+
+![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/firewall/BunkerIP-Firewall-Status.JPG)
+
+**NOTE:** This option show all IP Address add in ip.bunker and after that add in rules for DENY ALL in UFW (Ubuntu FireWall)
+
+**NOTE:** This display only IP. if you want to look ports need to run a manual command on terminal. NOT with Bunker-[IP]
+
+**NOTE:** The Number you see in the list is the real numbered rule in UFW
+
+## Bunker-[IP] Firewall Add Manual IP
+
+![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/firewall/BunkerIP-Firewall-Manual-Add.JPG)
+
+**NOTE:** You can always add a IP address in **ip.bunker** DB and that IP After run Firewall command is going to be add in DENY ALL Rules UFW.
+
+**NOTE:** This ip you add manual can be or not listed in a RBL list. But you can always make you ownd personal list for spam ip address.
+
+**NOTE:** NO Duplicated IP Address is going to be add in **ip.bunker** DB
+
+![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/firewall/BunkerIP-Firewall-Manual-Add-NO-Duplicate.JPG)
+
+**NOTE:** Going to see a Warning Message telling you this IP Address Exists
+
+## Bunker-[IP] - Firewall Delete
+
+![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/firewall/BunkerIP-Firewall-Delete.JPG)
+
+**NOTE:** This command remove the IP Address you enter from ip.bunker DB and UFW Rule DENY ALL IN
+
+**NOTE:** You can use this command for remove IP Address add it manual or in Positive Match Results from RBL Bunker Search
 
