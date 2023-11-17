@@ -99,13 +99,13 @@ Bunker-[IP] don't add duplicate match or duplicate manual adding.
 
 **NOTE:** For use this option in Bunker-[IP] You need **sudo** or **root** access.
 
-**NOTE:** Normal User with out sude or root access, can use RBL Scan for add ip in ip.bunker for wait the admin to add in firewall.
+**NOTE:** Normal User with out sudo or root access, can use RBL Scan for add ip in **ip.bunker** for wait the admin to add in firewall.
 
 ## Bunker-[IP] Firewall Status
 
 ![alt text](https://raw.githubusercontent.com/Bunker-IP/BunkerIP-Help/main/bunker-img/firewall/BunkerIP-Firewall-Status.JPG)
 
-**NOTE:** This option show all IP Address add in ip.bunker and after that add in rules for DENY ALL in UFW (Ubuntu FireWall)
+**NOTE:** This option show all IP Address add in **ip.bunker** and after that add in rules for DENY ALL in UFW (Ubuntu FireWall)
 
 **NOTE:** This display only IP. if you want to look ports need to run a manual command on terminal. NOT with Bunker-[IP]
 
